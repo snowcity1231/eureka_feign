@@ -5,3 +5,7 @@
 	整合了Ribbon和Eureka来提供均衡负载的HTTP客户端实现。
 	
 使用Feign实现对compute_service服务的访问与负载均衡
+
+
+##############2017-01-09
+在Feign中使用Hystrix断路器功能
